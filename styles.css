@@ -1,16 +1,16 @@
 @font-face{
     font-family:Altone;
-    src:url(../Downloads/Altone-Trial-Regular.ttf) format('truetype');
+    src:url(Helvetica.ttf) format('truetype');
 }
 @font-face{
     font-family:Montserrat;
-    src:url(../Downloads/Montserrat/Montserrat-Medium.ttf) format('truetype');}
+    src:url(Montserrat-Medium.ttf) format('truetype');}
  body{
         margin:0;
         margin-top:0;
     }
 header{
-    background-image:url(../Downloads/deeppact.png);
+    background-image:url(deeppact.png);
     height:900px;
     width:100%;
     background-repeat:no-repeat;
@@ -92,3 +92,4 @@ a:hover{
     color:rgb(133, 135, 155);
 
 }
+

@@ -1,6 +1,6 @@
 @font-face{
     font-family:Altone;
-    src:url(Helvetica.ttf) format('truetype');
+    src:url(Altone-Trial-Regular.ttf) format('truetype');
 }
 @font-face{
     font-family:Montserrat;
@@ -92,4 +92,5 @@ a:hover{
     color:rgb(133, 135, 155);
 
 }
+
 

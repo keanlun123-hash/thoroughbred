@@ -1,0 +1,93 @@
+@font-face{
+    font-family:Altone;
+    src:url(../Downloads/Altone-Trial-Regular.ttf)
+}
+@font-face{
+    font-family:Montserrat;
+    src:url(../Downloads/Montserrat/Montserrat-Medium.ttf);}
+ body{
+        margin:0;
+        margin-top:0;
+    }
+header{
+    background-image:url(../Downloads/deeppact.png);
+    height:900px;
+    width:100%;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+body{
+    background-color:rgb(25, 25, 53);
+}
+p.mainparagraph{
+    color: aliceblue;
+    font-family:Montserrat;
+    text-align:center;
+    position:relative;
+    top:50px;
+    font-size:30px;
+    margin-left:250px;
+    margin-right:250px;
+    
+}
+.tt{
+    color: aliceblue;
+    font-family:Altone;
+    text-align:center;
+    position: relative;
+    top: 305px;
+    font-size:100px;
+}
+.horse{
+    color: aliceblue;
+    font-family:Altone;
+    text-align:center;
+    font-size:75px;
+}
+#originofthoroughbreds{
+    position:relative;
+    top:200px;
+}
+a{
+    color: aliceblue;
+    font-family:Montserrat;
+    position:relative;
+    left:15px;
+    margin:15px;
+    text-decoration:none;
+}
+iframe{
+    position:  relative;
+    left:36%;
+    top:100px;
+}
+footer{
+    color:aliceblue;
+    text-align:center;
+    font-family:Montserrat;
+    position:relative;
+    top:315px;
+    padding-bottom:85px;
+    padding-top:85px;
+    background-color:rgb(20, 24, 34)
+
+}
+.links{
+    background-color:rgb(20, 24, 34);
+    list-style-type: none;
+    margin:0;
+}
+.links li{
+    display:inline-block;
+    padding-top:25px;
+    padding-bottom:25px;
+    margin:0;
+    position:relative;
+}
+hr{
+    position:relative;
+    margin:0;
+}
+a:hover{
+    color:rgb(133, 135, 155);
+}

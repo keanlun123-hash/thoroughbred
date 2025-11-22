@@ -108,9 +108,14 @@ a:hover{
     color:rgb(133, 135, 155);
 
 }
+.loaded{
+    animation-name:fade-in;
+    animation-duration:0.8s;
+}
 
 
 
    
+
 
 

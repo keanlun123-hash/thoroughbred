@@ -1,4 +1,4 @@
-const targets = document.querySelectorAll('.mainContent div');
+const targets = document.querySelectorAll('.content div');
 
 if (targets.length > 0) {
   const observer = new IntersectionObserver((entries) => {
